@@ -1,6 +1,6 @@
 # Bankist Website
 
-A minimalist banking website showcasing advanced JavaScript concepts and modern web development techniques. This project demonstrates a range of functionality from lazy loading images to interactive UI components, all built with a focus on performance and user experience.
+A minimalist banking website showcasing advanced JavaScript concepts and modern web development techniques. This project demonstrates a range of functionality from lazy loading images to interactive UI components, all built with a focus on performance and user experience!
 
 ## Features
 
