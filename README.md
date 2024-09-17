@@ -11,7 +11,7 @@ A minimalist banking website showcasing advanced JavaScript concepts and modern 
 - **Performance Optimization**: Using efficient script loading and event delegation.
 
 ## Demo 📽️
-**Explore Bankist:** [Visit website](https://mostafa-ehab22.github.io/Mapty-Workout-Tracker/)
+**Explore Bankist:** [Visit website](https://mostafa-ehab22.github.io/Bankist-Website/)
 
 ## Technologies Used
 
