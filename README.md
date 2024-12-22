@@ -19,9 +19,4 @@ A minimalist banking website showcasing advanced JavaScript concepts and modern 
 - **CSS3**: Styling, layout, Flexbox, and Grid
 - **JavaScript ES6**: Core functionality, including event handling, DOM manipulation, and performance optimizations
 
-## Acknowledgments 
-
-- **Jonas Schmedtmann**: Inspiration and teaching the concepts used in this project.
-
-
 
